@@ -1,7 +1,7 @@
 # Largrids.jl
 
-[![Runtests](https://github.com/adelloste/Largrids.jl/actions/workflows/Runtests.yml/badge.svg)](https://github.com/adelloste/Largrids.jl/actions/workflows/Runtests.yml)
-[![Documenter](https://github.com/adelloste/Largrids.jl/actions/workflows/Documenter.yml/badge.svg)](https://github.com/adelloste/Largrids.jl/actions/workflows/Documenter.yml)
+[![Runtests](https://github.com/mgranchelli/Largrids.jl/actions/workflows/Runtests.yml/badge.svg)](https://github.com/mgranchelli/Largrids.jl/actions/workflows/Runtests.yml)
+[![Documenter](https://github.com/mgranchelli/Largrids.jl/actions/workflows/Documenter.yml/badge.svg)](https://github.com/mgranchelli/Largrids.jl/actions/workflows/Documenter.yml)
 
 Generation of multidimensional cuboidal and simplicial complexes, and Cartesian product of complexes
 
@@ -19,5 +19,5 @@ Generation of multidimensional cuboidal and simplicial complexes, and Cartesian 
 
 ## Documentation
 
-Go to [the documentation page](https://adelloste.github.io/Largrids.jl/)
+Go to [the documentation page](https://mgranchelli.github.io/Largrids.jl/)
 

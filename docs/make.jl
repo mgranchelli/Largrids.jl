@@ -27,5 +27,5 @@ makedocs(
 
 
 deploydocs(
-	repo = "github.com/adelloste/Largrids.jl.git"
+	repo = "github.com/mgranchelli/Largrids.jl.git"
 )
